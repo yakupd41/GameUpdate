@@ -1,1 +1,5 @@
-
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://github.com/",
+  "message": "There is a update!"
+}
